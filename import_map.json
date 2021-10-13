@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "destjs/": "https://deno.land/x/destjs@v0.1.6/"
+  }
+}
